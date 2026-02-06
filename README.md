@@ -1,2 +1,2 @@
 # ML-learning-journey
-My Machine Learning learning journey (Jan–Mar 2026)
+My Machine Learning learning journey (Jan–Feb 2026)
